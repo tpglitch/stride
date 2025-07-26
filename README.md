@@ -3,8 +3,8 @@
 Robust, flexible, and multi-format configuration-driven ZIP + file extractor built for pipelines, scripting, and offline workflows.
 
 <p align="center">
-  <strong>Version</strong>: 3.7.1  
-  <br>
+<!--   <strong>Version</strong>: 3.7.1  
+  <br> -->
   <strong>Formats</strong>: YAML • JSON • TOML • XML  
 </p>
 
