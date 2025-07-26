@@ -1,1 +1,2 @@
 # Stride
+Internal tool
