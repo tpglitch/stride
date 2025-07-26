@@ -108,7 +108,6 @@ zip_sources:
     name: "NodeJS v18.14.0"
     target_dir: "#/bin"
     include_directories: ["bin", "lib"]
-    exclude_directories: ["share/doc"]
     include_patterns: ["*.exe", "*.dll"]
     preserve_structure: false
 
