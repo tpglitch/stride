@@ -1,6 +1,6 @@
 # 🏃‍♂️ Stride
 
-Robust, flexible, and multi-format configuration-driven ZIP + file extractor built for pipelines, scripting, and offline workflows.
+Robust, flexible, and multi-format configuration-driven ZIP + file extractor built for pipelines, scripting, and workflows.
 
 <p align="center">
 <!--   <strong>Version</strong>: 3.7.1  
