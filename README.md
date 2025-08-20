@@ -78,7 +78,6 @@ stride extract -c config.yaml -v
 
 ## 🛠 Debugging Tips
 
-* Use -v / --verbose to see exactly what gets filtered and why.
 * Use --override-type-detection when file extensions are ambiguous.
 * Validate config structure with:
 
