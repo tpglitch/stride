@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest an idea for Stride
-title: "[FEAT] "
+title: "feat: "
 labels: enhancement
 assignees: tpglitch
 
